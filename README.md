@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 👋 Hi there, I'm REAM Borey
 
-## Getting Started
+Welcome to my GitHub! I'm a **Full-Stack Web Developer** specializing in the **MERN Stack (MongoDB, Next.js, React.js, Java Spring Boot, FastAPI)** and passionate about building **scalable, performant, and user-friendly web applications**. I bring together **frontend precision** and **backend logic** to develop complete solutions that solve real-world problems.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 About Me
+-  **Role:** Junior Full-Stack Developer | MERN Stack Enthusiast
+-  **Education:** Bachelor of Management Information Systems in IT
+-  **Currently Learning:** Advanced Backend Architecture (JWT, REST APIs, MongoDB), React Optimization, SEO Strategies
+-  **Location:** Cambodia 🇰🇭
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🧠 Tech Stack & Tools
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 🔹 Backend
+- `Java Spring Boot`, `FastAPI`, `Javascript`, `.NET`, `RESTful APIs`
 
-## Learn More
+### 🔹 Frontend
+- `Next.js`, `React.js`,`Flutter`
 
-To learn more about Next.js, take a look at the following resources:
+### 🔹 Styling & UI
+- `Tailwind CSS`, `Bootstrap`,
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🔹 Database
+- `Postgres SQL`, `Oracle`, `MySQL`
+- `MongoDB`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 🔹 Platforms & Dev Tools
+- `Git & GitHub`, `Visual Studio Code (VS Code)`
+- `Postman`, `MongoDB Atlas`, `hoppscotch`, `Render`, `Vercel`
+---
 
-## Deploy on Vercel
+### ✅ DevOps & Cloud
+- Skilled with Docker, GitHub Actions (CI/CD), and
+deployment on Linux servers using Google Cloud Platform:(GCP).
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🌐 Active Platforms
+| Platform          | Description                                           | Links                                                 |
+|-------------------|-------------------------------------------------------|-------------------------------------------------------|
+| **GitHub**        | Open-source code and personal projects                | [@REAM-Borey](https://github.com/REAM-Borey)  |
+| **LinkedIn**      | Professional network & job connections                | [linkedin](https://www.linkedin.com/in/ream-borey-113631323/) |
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🧱 Current Focus Areas
+- 🔐 **Authentication & Authorization:** JWT, OAuth, Session handling  
+- 🌐 **RESTful APIs:** Build & consume scalable APIs with FastAPI & PostgresSQL
+- ⚙️ **Deployment:** CI/CD with Gitlap, Docker, Traefik  
+- 🧠 **SEO Optimization:** Schema.org, meta tags, accessibility  
+- 🔄 **FullStack Practice:** Cloning real-world apps with MERN stack
+
+---
+
+## 🏆 My Goals
+
+- ✅ Build real-world full-stack apps
+- ✅ Contribute to open-source Next.js and React.js projects 
+- ✅ Land global freelance and remote full-time opportunities  
+- ✅ Improve backend skill 
+
+---
+
+## 💬 Let's Collaborate!
+Whether you're a developer, startup, or agency, I'm open to **collaboration, mentorship, and project-based work**.  
+Let’s build something amazing together.
+
+---
+
+## 📫 Contact Me
+- **Email:** [boreyreun168@gmail.com](boreyreun168@gmail.com)  
+- **GitHub:** [github.com/REAM-Borey](https://github.com/REAM-Borey)  
+- **Telegram:** [@REA-Borey](https://t.me/REAMBorey)
